@@ -1,0 +1,23 @@
+.robot-name {
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.robot-info {
+    font-size: 0.7em;
+    font-weight: bold;
+    text-align: left;
+}
+
+.robot-info_data {
+    font-size: 0.7em;
+    font-weight: normal;
+    text-align: left;
+}
+
+.card-container {
+    background: white;
+    padding: 15px;
+    border-radius: 10px
+}
