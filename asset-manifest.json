@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/registro-de-androids/static/css/main.dc861831.chunk.css",
+    "main.js": "/registro-de-androids/static/js/main.97283e29.chunk.js",
+    "main.js.map": "/registro-de-androids/static/js/main.97283e29.chunk.js.map",
+    "runtime-main.js": "/registro-de-androids/static/js/runtime-main.a43993bd.js",
+    "runtime-main.js.map": "/registro-de-androids/static/js/runtime-main.a43993bd.js.map",
+    "static/js/2.5075ebff.chunk.js": "/registro-de-androids/static/js/2.5075ebff.chunk.js",
+    "static/js/2.5075ebff.chunk.js.map": "/registro-de-androids/static/js/2.5075ebff.chunk.js.map",
+    "index.html": "/registro-de-androids/index.html",
+    "precache-manifest.b7ce325c905e5b61dc09408afb533a63.js": "/registro-de-androids/precache-manifest.b7ce325c905e5b61dc09408afb533a63.js",
+    "service-worker.js": "/registro-de-androids/service-worker.js",
+    "static/css/main.dc861831.chunk.css.map": "/registro-de-androids/static/css/main.dc861831.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a43993bd.js",
+    "static/js/2.5075ebff.chunk.js",
+    "static/css/main.dc861831.chunk.css",
+    "static/js/main.97283e29.chunk.js"
+  ]
+}
