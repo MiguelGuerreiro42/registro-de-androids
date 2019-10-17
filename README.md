@@ -1,3 +1,15 @@
+## Descrição do projeto
+
+Esse projeto foi criado com a finalidade de refinar os conceitos da tecnologia React, voltado fundamentalmente para aprendizado.<br />
+[Link do Projeto](https://miguelguerreiro42.github.io/registro-de-androids/)
+
+## API'S usadas
+
+[Json PlaceHolder](https://jsonplaceholder.typicode.com/users)<br />
+[RoboHash](https://robohash.org/) 
+
+## README PADRÃO
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
